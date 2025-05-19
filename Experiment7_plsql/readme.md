@@ -1,5 +1,6 @@
-# Experiment 6: PL/SQL – Variables, Control Structures and Loops
-
+# Experiment 7: PL/SQL – Variables, Control Structures and Loops
+## Name: PAVITHRAN MJ
+## Reg.no:212223240112
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
